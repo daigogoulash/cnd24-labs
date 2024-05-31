@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: hello-deployment-green
+  name: hello-deployment-blue
   labels:
     app: hello
     version: blue
